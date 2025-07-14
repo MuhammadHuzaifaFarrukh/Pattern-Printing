@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742004391 source:c:\users\huzburhincnoorirh\documents\programming languages\c stuff\pyramid pattern 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
