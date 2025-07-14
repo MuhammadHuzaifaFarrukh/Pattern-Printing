@@ -17,15 +17,7 @@ Whether you're learning about loops, practicing conditional statements, or simpl
 
 To compile and run any of these pattern programs, you'll need a C/C++ compiler installed on your system (e.g., GCC/G++).
 
-1.  **Clone the repository:**
-    If you haven't already, clone this repository to your local machine:
-    ```bash
-    git clone [https://github.com/YourUsername/your-cpp-patterns-repo-name.git](https://github.com/YourUsername/your-cpp-patterns-repo-name.git)
-    cd your-cpp-patterns-repo-name
-    ```
-    (Remember to replace `YourUsername` and `your-cpp-patterns-repo-name` with your actual GitHub username and repository name.)
-
-2.  **Compile a specific pattern:**
+1.  **Compile a specific pattern:**
     Navigate to the directory containing the `.c` or `.cpp` file you wish to run. Use your compiler to compile it. For example, using `g++` (for C++ files) or `gcc` (for C files):
 
     ```bash
@@ -37,7 +29,7 @@ To compile and run any of these pattern programs, you'll need a C/C++ compiler i
     ```
     (Replace `my_pattern_program.cpp` or `my_pattern_program.c` with the actual filename of the pattern you want to compile).
 
-3.  **Run the compiled program:**
+2.  **Run the compiled program:**
     After successful compilation, execute the compiled program:
 
     ```bash
