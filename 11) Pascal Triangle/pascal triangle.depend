@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1741556782 source:c:\users\huzburhincnoorirh\documents\programming languages\c stuff\pascal triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1741557483 source:c:\users\huzburhincnoorirh\documents\programming languages\c stuff\pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
